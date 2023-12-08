@@ -64,4 +64,4 @@ Instale my-project com python 3.9.5
   #nome_empresa= 'nome da pasta da empresa'
   #path_projeto= '/test/project/'#caminho em que esta o projeto python
 ```
-    
+    git branch --set-upstream-to=origin master
